@@ -177,7 +177,7 @@ footer ul li:hover {
 </head>
 <body>
 	<header>
-		<h1>User Management System</h1>
+		<h1>User Management System...</h1>
 		<ul>
 			
 			<li><a href="create_page">Create Account</a></li>
